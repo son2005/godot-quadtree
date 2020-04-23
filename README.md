@@ -8,6 +8,6 @@ QuadTree implementation for Godot Engine
 
 
 Note:
-- Performance check of rect vs rect query is better than circle vs rect query (Please correct me if I am wrong)
+- It is better to use query_rect than query_circle (better performance)
 
 
