@@ -3,5 +3,11 @@
 Quadtree on Wikipedia: 
 https://en.wikipedia.org/wiki/Quadtree
 
-Quadtree from coding train:
-https://www.youtube.com/watch?v=OJxEcs0w_kE
+
+QuadTree implementation for Godot Engine
+
+
+Note:
+- Performance check of rect vs rect query is better than circle vs rect query (Please correct me if I am wrong)
+
+
